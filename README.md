@@ -1,5 +1,6 @@
 # Weather 
 A weather dynamic interface 
+It uses CSS and HTML
 
 ## Features
- shows weather condition in Newyork city
+ *Shows weather condition in Newyork city
